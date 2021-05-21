@@ -1,0 +1,28 @@
+{
+    "apps": [
+      {
+        "name"           : "creb-depositor",
+        "script"         : "src/app.js",
+        "args"           : "--max_old_space_size=8192",
+        "instances"      : 1,
+        "autorestart"    : true,
+        "interpreter"    : "node@12.13.0",
+        "watch"          : false,
+        "env": {
+          "PORT"      : 8080,
+          "NODE_ENV"      : "development"
+        },
+        "env_develop": {
+            "PORT"       : 8080,
+            "NODE_ENV"   : "develop"
+        },
+        "env_production" : {
+            "PORT"       : 8080,
+            "NODE_ENV"   : "production",
+            "WALLET_PASSWORD": "",
+            "XRP_SECRETE": "",
+            "FUNDING_KEY":""
+        }
+      }
+    ]
+}

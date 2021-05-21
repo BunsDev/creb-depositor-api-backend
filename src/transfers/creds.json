@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atlantis-app-305209",
+  "private_key_id": "c4a7e920485bf08ccbb146abcdde0b7e7a836796",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3DngH3sLcKORa\ntlFFJwrpqQRH2/wFWoGE5LQnjIqAvi1WwDhz75d8SW3/BGNG59fRh5b4zeMe5+CM\nhpJl9n827wMf7Nty/pk/3MupgWsj1LfVuSrtaw50anzJKzMIlKg5taZaTBrrQN/4\nNmzcaLga9pPjULNQxPa0mReT/dRzBl6V0bYGE1ZlFmVJcYtXCP2IvnL/d2SUu+5z\nrOez76Dv1HUE1EWw1oPWIdHb0xGbcqG41/ktLIoD+8JcGt1opgN8BYA8is7taiwQ\nEah7+sd1Bfe0oPhvNnOmZoKyA0PBPZwe5DD99NJrnnDgAhrE8K2ES0vhhKSMraIj\nLZg3JuHJAgMBAAECggEAFPWtST2k2ni9ptSA4JUHX/tu2YnYP7wF8PhWMGTD+1gn\nEI0OPQe+mlTAeDovEfzpWmVecY1GD4Esk792/B+Fe2uboEG//GmNJtXckWzhYhDR\n59flxG6os0e1fnujwL6b5wl6K375aav/VFeJtMlNlTwGH+rgy6FqLLgwP+Xw+DEP\nd47oQhIkj7QgOdm3NwmWYjdJNQcNefp3zxXWFIA34aqmxf2hAIJJ5YImxuRL5Y20\nu2ktVs2mnGOFSlNrGPewX8La2CAkUaGvPSSYPEwFqmbnojBZhL0zkPbYN/nIoYQq\nlmGnccff2idtTHChW9KPwfAgYiyDrEH3JdpDksU9gQKBgQD/3DmvSuzj+lSvcYvx\nyhilI93rbjhZbz6yoOYrGMVBs87Va4ZAueUEAE+L2doMTZnRHgTPS9xdJMWYGi0O\n6nWa5Jvh0BRn41/AdLKXkeyHG5vMVypFK5THXUgmwgjGPyHXWtvaT9fv9pBVNCKI\nXbzGvTuzpjAPaHcNGJB6wIHcZQKBgQD3MQM5Jjpmi4H9ZUCINCF0NpKmrZjN9CIr\ni2z9shTOY1F7eLALrjpSK3WfGWfDp0fzLYXGy8+95/QnaPDfPCCCCFiOFEpdYW4z\nrCODzAYOsfm6+CtjGVSsvQlPGYJhuvsqT876ETqlN/FnAQ5z/mmD2parpezO76YI\ntdRNHdX/lQKBgEULE5HnARfgFHwnguEjbRUbIaaHXrNbnqqrWpEkpQ4+zECxPFA5\nGcDDqLOPfRS22BwjIp8h1HxaEOwjnCcbQ9Mhf6Mm+Gq0Y8FWfF8EZLRs0dUJbIGv\n6f0GghLbZ2y/2oz3mr5Fr3q0qWwknnD4ApoKtJKc9PkjcoTZLRvC2Qg1AoGBANdk\nO9zGdMj58xDr82k7k5MCIpNeXPHJMyUiXpxJWlvkqxGdvjjPXj5PZDR4HLSdxNIe\n7pyk56Ygwdy9UnYSnHjx8MgM4iewSCh6bI/hbb3MU0EaEiRN5DyIk9366mNiXI0n\n8cBw1ts0fgM1JnToUOT1yahT8p72r4STfCSeRORpAoGAWvLcWyLPGrFzTSeOBhhi\n2AbosgLSAjZkPx/qBRo65fdlMZxoorsLwBDo12wo4oy7Wmql4UffVHBM9SJHWuPq\nY4prRG066coYWHeNkum+bzVD0JFS6KmpsDdXNEVDu+UB5nT4+Nj1QfzNMF2FUR4y\ndYaCo6XB3eU8sT0S/YNgjCk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "atlantis@atlantis-app-305209.iam.gserviceaccount.com",
+  "client_id": "101652398206105021308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atlantis%40atlantis-app-305209.iam.gserviceaccount.com"
+}
